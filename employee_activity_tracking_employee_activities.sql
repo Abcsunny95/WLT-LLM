@@ -1,0 +1,1 @@
+SELECT * FROM employee_activity_tracking.employee_activities;

@@ -1,0 +1,2222 @@
+[
+  {
+    "query_id": 1,
+    "result": [
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 1,
+        "number_of_meetings": 11,
+        "total_sales_rmb": 30609.481026941263,
+        "hours_worked": 33.083328763731,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 2,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 9685.856679898656,
+        "hours_worked": 38.356221965294914,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 3,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 29565.004223040207,
+        "hours_worked": 38.13940710785681,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 4,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 42023.49649861812,
+        "hours_worked": 34.146936294246785,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 5,
+        "number_of_meetings": 9,
+        "total_sales_rmb": 47379.72558009687,
+        "hours_worked": 39.18061774727289,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 6,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 42813.31308371268,
+        "hours_worked": 30.86106557637785,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 7,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 26680.754819413705,
+        "hours_worked": 30.300996863906928,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 8,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 21290.703953307457,
+        "hours_worked": 43.24765281452008,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 9,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 5146.240436840823,
+        "hours_worked": 40.678794034902474,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 10,
+        "number_of_meetings": 9,
+        "total_sales_rmb": 24500.831333665472,
+        "hours_worked": 46.64251260554649,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 2,
+    "result": [
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 1,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 31757.22671993481,
+        "hours_worked": 36.4871905016085,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 2,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 14099.33447952627,
+        "hours_worked": 38.495851976678644,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 3,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 11824.29416958527,
+        "hours_worked": 49.0151409383966,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 4,
+        "number_of_meetings": 15,
+        "total_sales_rmb": 40411.57911591047,
+        "hours_worked": 35.78065139610824,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 5,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 49769.0403319604,
+        "hours_worked": 34.2964190722343,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 6,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 8253.78293995409,
+        "hours_worked": 30.17808197942429,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 7,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 31579.95212812876,
+        "hours_worked": 31.224553680747015,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 8,
+        "number_of_meetings": 8,
+        "total_sales_rmb": 43771.889549164596,
+        "hours_worked": 31.157053746566493,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 9,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 47286.60136091809,
+        "hours_worked": 49.69941900507893,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 10,
+        "number_of_meetings": 14,
+        "total_sales_rmb": 29727.110932500527,
+        "hours_worked": 35.35930878079277,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 3,
+    "result": [],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 4,
+    "result": [
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 1,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 41150.42008102778,
+        "hours_worked": 34.10708694274396,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 2,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 35699.21817201292,
+        "hours_worked": 45.687257015563546,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 3,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 5612.725918423419,
+        "hours_worked": 40.746987429183164,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 4,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 18565.540865054376,
+        "hours_worked": 48.48926981154454,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 5,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 12827.06589234819,
+        "hours_worked": 45.100878771315905,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 6,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 1578.6840049070488,
+        "hours_worked": 43.08606839356107,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 7,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 37134.59082142685,
+        "hours_worked": 42.4382513327438,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 8,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 46904.56411215655,
+        "hours_worked": 46.60132710569351,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 9,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 34919.001492994015,
+        "hours_worked": 32.94286526769507,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 10,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 15601.753348482076,
+        "hours_worked": 42.25957299893996,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 1,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 13033.499478844422,
+        "hours_worked": 43.63646624516414,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 2,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 4928.60832832729,
+        "hours_worked": 35.21279121448795,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-02-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 3,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 48915.46057932081,
+        "hours_worked": 36.60070872789562,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-03-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 4,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 11551.261984238938,
+        "hours_worked": 42.377030023685215,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-04-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 5,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 34915.504784656754,
+        "hours_worked": 49.32422556040455,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-05-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 6,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 46727.12184578616,
+        "hours_worked": 39.54654894829897,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-06-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 7,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 13128.874710089902,
+        "hours_worked": 48.14999403100249,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-07-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 8,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 1201.7866738117668,
+        "hours_worked": 43.392336558286146,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 9,
+        "number_of_meetings": 14,
+        "total_sales_rmb": 34114.01000853239,
+        "hours_worked": 33.159186257892806,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-09-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 10,
+        "number_of_meetings": 15,
+        "total_sales_rmb": 22901.89111221059,
+        "hours_worked": 35.23827267762301,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-10-01",
+        "hire_period": "Global Economic Slowdown"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 5,
+    "result": [
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 1,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 41150.42008102778,
+        "hours_worked": 34.10708694274396,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 2,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 35699.21817201292,
+        "hours_worked": 45.687257015563546,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 3,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 5612.725918423419,
+        "hours_worked": 40.746987429183164,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 4,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 18565.540865054376,
+        "hours_worked": 48.48926981154454,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 5,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 12827.06589234819,
+        "hours_worked": 45.100878771315905,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 6,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 1578.6840049070488,
+        "hours_worked": 43.08606839356107,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 7,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 37134.59082142685,
+        "hours_worked": 42.4382513327438,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 8,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 46904.56411215655,
+        "hours_worked": 46.60132710569351,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 9,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 34919.001492994015,
+        "hours_worked": 32.94286526769507,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 10,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 15601.753348482076,
+        "hours_worked": 42.25957299893996,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 6,
+    "result": [
+      {
+        "employee_id": "E002",
+        "full_name": "Emily Johnson",
+        "department": "Business Development",
+        "job_title": "Business Development Associate",
+        "hire_date": "2021-03-22",
+        "week_number": 1,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 35271.409435319394,
+        "hours_worked": 42.88098615473028,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 1,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 3883.0781964142207,
+        "hours_worked": 45.72582694042522,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 1,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 34381.5649800549,
+        "hours_worked": 45.583665951558714,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 1,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 13033.499478844422,
+        "hours_worked": 43.63646624516414,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "Global Economic Slowdown"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 7,
+    "result": 11,
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 8,
+    "result": 39.90280296381661,
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 9,
+    "result": 674431.928954574,
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 10,
+    "result": 279099.981450525,
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 11,
+    "result": {
+      "employee_id": "E006",
+      "full_name": "Xia Chen",
+      "department": "Product Development",
+      "job_title": "Product Manager",
+      "hire_date": "2022-03-01",
+      "week_number": 9,
+      "number_of_meetings": 18,
+      "total_sales_rmb": 47286.60136091809,
+      "hours_worked": 49.69941900507893,
+      "activities": "Faced challenges with customer retention; proposed new engagement program",
+      "week_start_date": "2024-09-01",
+      "hire_period": "COVID-19 Recession"
+    },
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 12,
+    "result": {
+      "employee_id": "E010",
+      "full_name": "Linda Brown",
+      "department": "Finance",
+      "job_title": "Accountant",
+      "hire_date": "2019-07-25",
+      "week_number": 2,
+      "number_of_meetings": 18,
+      "total_sales_rmb": 4928.60832832729,
+      "hours_worked": 35.21279121448795,
+      "activities": "Developed new marketing strategy",
+      "week_start_date": "2024-02-01",
+      "hire_period": "Global Economic Slowdown"
+    },
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 13,
+    "result": [
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "John Smith",
+        "hire_date": "2020-05-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Emily Johnson",
+        "hire_date": "2021-03-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Wei Zhang",
+        "hire_date": "2019-06-10",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Tao Huang",
+        "hire_date": "2020-08-22",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Na Li",
+        "hire_date": "2021-02-15",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Xia Chen",
+        "hire_date": "2022-03-01",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "James Wilson",
+        "hire_date": "2018-11-30",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Sarah Davis",
+        "hire_date": "2020-04-17",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Robert Taylor",
+        "hire_date": "2021-09-08",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Linda Brown",
+        "hire_date": "2019-07-25",
+        "recession": "Global Economic Slowdown"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      },
+      {
+        "name": "Michael Miller",
+        "hire_date": "2020-10-11",
+        "recession": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 14,
+    "result": [
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 3,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 29565.004223040207,
+        "hours_worked": 38.13940710785681,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E001",
+        "full_name": "John Smith",
+        "department": "Sales",
+        "job_title": "Sales Manager",
+        "hire_date": "2020-05-15",
+        "week_number": 9,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 5146.240436840823,
+        "hours_worked": 40.678794034902474,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E002",
+        "full_name": "Emily Johnson",
+        "department": "Business Development",
+        "job_title": "Business Development Associate",
+        "hire_date": "2021-03-22",
+        "week_number": 1,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 35271.409435319394,
+        "hours_worked": 42.88098615473028,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E003",
+        "full_name": "Wei Zhang",
+        "department": "Sales",
+        "job_title": "Sales Executive",
+        "hire_date": "2019-06-10",
+        "week_number": 8,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 37801.75796325624,
+        "hours_worked": 31.474137490786422,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 9,
+        "number_of_meetings": 15,
+        "total_sales_rmb": 46936.28234723697,
+        "hours_worked": 39.21353748429159,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 3,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 5612.725918423419,
+        "hours_worked": 40.746987429183164,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 8,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 46904.56411215655,
+        "hours_worked": 46.60132710569351,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 9,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 34919.001492994015,
+        "hours_worked": 32.94286526769507,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 7,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 31579.95212812876,
+        "hours_worked": 31.224553680747015,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 8,
+        "number_of_meetings": 8,
+        "total_sales_rmb": 43771.889549164596,
+        "hours_worked": 31.157053746566493,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E006",
+        "full_name": "Xia Chen",
+        "department": "Product Development",
+        "job_title": "Product Manager",
+        "hire_date": "2022-03-01",
+        "week_number": 9,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 47286.60136091809,
+        "hours_worked": 49.69941900507893,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E007",
+        "full_name": "James Wilson",
+        "department": "Marketing",
+        "job_title": "Marketing Specialist",
+        "hire_date": "2018-11-30",
+        "week_number": 6,
+        "number_of_meetings": 14,
+        "total_sales_rmb": 23063.70170238791,
+        "hours_worked": 37.83251681500269,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-06-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E007",
+        "full_name": "James Wilson",
+        "department": "Marketing",
+        "job_title": "Marketing Specialist",
+        "hire_date": "2018-11-30",
+        "week_number": 9,
+        "number_of_meetings": 15,
+        "total_sales_rmb": 32804.18743756088,
+        "hours_worked": 41.742390992785694,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 4,
+        "number_of_meetings": 9,
+        "total_sales_rmb": 40374.352032394694,
+        "hours_worked": 41.40641123408719,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 4,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 11551.261984238938,
+        "hours_worked": 42.377030023685215,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-04-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 6,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 46727.12184578616,
+        "hours_worked": 39.54654894829897,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-06-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 7,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 13128.874710089902,
+        "hours_worked": 48.14999403100249,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-07-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E010",
+        "full_name": "Linda Brown",
+        "department": "Finance",
+        "job_title": "Accountant",
+        "hire_date": "2019-07-25",
+        "week_number": 8,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 1201.7866738117668,
+        "hours_worked": 43.392336558286146,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E011",
+        "full_name": "Michael Miller",
+        "department": "Business Development",
+        "job_title": "BD Manager",
+        "hire_date": "2020-10-11",
+        "week_number": 6,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 10305.974604598996,
+        "hours_worked": 49.942975040062265,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E011",
+        "full_name": "Michael Miller",
+        "department": "Business Development",
+        "job_title": "BD Manager",
+        "hire_date": "2020-10-11",
+        "week_number": 7,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 18528.090986811392,
+        "hours_worked": 32.10287370404334,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 15,
+    "result": [
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 1,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 41150.42008102778,
+        "hours_worked": 34.10708694274396,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 2,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 35699.21817201292,
+        "hours_worked": 45.687257015563546,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 3,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 5612.725918423419,
+        "hours_worked": 40.746987429183164,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 4,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 18565.540865054376,
+        "hours_worked": 48.48926981154454,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 5,
+        "number_of_meetings": 5,
+        "total_sales_rmb": 12827.06589234819,
+        "hours_worked": 45.100878771315905,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 6,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 1578.6840049070488,
+        "hours_worked": 43.08606839356107,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 7,
+        "number_of_meetings": 20,
+        "total_sales_rmb": 37134.59082142685,
+        "hours_worked": 42.4382513327438,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 8,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 46904.56411215655,
+        "hours_worked": 46.60132710569351,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 9,
+        "number_of_meetings": 19,
+        "total_sales_rmb": 34919.001492994015,
+        "hours_worked": 32.94286526769507,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E005",
+        "full_name": "Na Li",
+        "department": "Finance",
+        "job_title": "Financial Analyst",
+        "hire_date": "2021-02-15",
+        "week_number": 10,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 15601.753348482076,
+        "hours_worked": 42.25957299893996,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "query_id": 16,
+    "result": [
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 1,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 3883.0781964142207,
+        "hours_worked": 45.72582694042522,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 2,
+        "number_of_meetings": 7,
+        "total_sales_rmb": 17748.08872385809,
+        "hours_worked": 48.45568939998594,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 3,
+        "number_of_meetings": 18,
+        "total_sales_rmb": 47093.50585307691,
+        "hours_worked": 43.45391712945719,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 4,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 48882.22212121103,
+        "hours_worked": 43.88358785323969,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 5,
+        "number_of_meetings": 14,
+        "total_sales_rmb": 33012.11925656745,
+        "hours_worked": 44.41033746652049,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 6,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 34752.82907728575,
+        "hours_worked": 44.261029800112325,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 7,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 19697.20922751189,
+        "hours_worked": 42.136051599504626,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 8,
+        "number_of_meetings": 8,
+        "total_sales_rmb": 9535.75359068411,
+        "hours_worked": 42.79338229067936,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 9,
+        "number_of_meetings": 15,
+        "total_sales_rmb": 46936.28234723697,
+        "hours_worked": 39.21353748429159,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 10,
+        "number_of_meetings": 14,
+        "total_sales_rmb": 44793.69446396779,
+        "hours_worked": 43.0272681639265,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 1,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 34381.5649800549,
+        "hours_worked": 45.583665951558714,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 2,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 45705.29119814375,
+        "hours_worked": 44.05091042218108,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-02-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 3,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 1843.809786081175,
+        "hours_worked": 42.62135996773848,
+        "activities": "Developed new marketing strategy",
+        "week_start_date": "2024-03-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 4,
+        "number_of_meetings": 9,
+        "total_sales_rmb": 40374.352032394694,
+        "hours_worked": 41.40641123408719,
+        "activities": "Faced challenges with customer retention; proposed new engagement program",
+        "week_start_date": "2024-04-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 5,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 35419.24970350212,
+        "hours_worked": 31.08746446323513,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-05-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 6,
+        "number_of_meetings": 17,
+        "total_sales_rmb": 4299.431220388763,
+        "hours_worked": 37.62235261547075,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-06-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 7,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 40341.56890443218,
+        "hours_worked": 39.21189385792297,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-07-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 8,
+        "number_of_meetings": 10,
+        "total_sales_rmb": 16840.33333798951,
+        "hours_worked": 46.830327499866065,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-08-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 9,
+        "number_of_meetings": 12,
+        "total_sales_rmb": 3695.9364876621094,
+        "hours_worked": 30.917015823033505,
+        "activities": "Prepared sales reports and client meetings",
+        "week_start_date": "2024-09-01",
+        "hire_period": "COVID-19 Recession"
+      },
+      {
+        "employee_id": "E009",
+        "full_name": "Robert Taylor",
+        "department": "IT",
+        "job_title": "Systems Administrator",
+        "hire_date": "2021-09-08",
+        "week_number": 10,
+        "number_of_meetings": 6,
+        "total_sales_rmb": 38494.15991221782,
+        "hours_worked": 49.258479295785364,
+        "activities": "Implemented software updates",
+        "week_start_date": "2024-10-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 17,
+    "result": [
+      {
+        "employee_id": "E003",
+        "full_name": "Wei Zhang",
+        "department": "Sales",
+        "job_title": "Sales Executive",
+        "hire_date": "2019-06-10",
+        "week_number": 1,
+        "number_of_meetings": 13,
+        "total_sales_rmb": 33655.61973677973,
+        "hours_worked": 34.66734421455908,
+        "activities": "Analyzed financial reports",
+        "week_start_date": "2024-01-01",
+        "hire_period": "Global Economic Slowdown"
+      },
+      {
+        "employee_id": "E004",
+        "full_name": "Tao Huang",
+        "department": "IT",
+        "job_title": "Software Engineer",
+        "hire_date": "2020-08-22",
+        "week_number": 1,
+        "number_of_meetings": 16,
+        "total_sales_rmb": 3883.0781964142207,
+        "hours_worked": 45.72582694042522,
+        "activities": "Conducted customer feedback sessions",
+        "week_start_date": "2024-01-01",
+        "hire_period": "COVID-19 Recession"
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 18,
+    "result": [
+      {
+        "name": "Tao Huang",
+        "total_hours": 167.1702395384021
+      },
+      {
+        "name": "Robert Taylor",
+        "total_hours": 166.2177164766079
+      },
+      {
+        "name": "Na Li",
+        "total_hours": 164.24201670507233
+      }
+    ],
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 19,
+    "result": {
+      "employee_id": "E006",
+      "full_name": "Xia Chen",
+      "department": "Product Development",
+      "job_title": "Product Manager",
+      "hire_date": "2022-03-01",
+      "week_number": 5,
+      "number_of_meetings": 20,
+      "total_sales_rmb": 49769.0403319604,
+      "hours_worked": 34.2964190722343,
+      "activities": "Prepared sales reports and client meetings",
+      "week_start_date": "2024-05-01",
+      "hire_period": "COVID-19 Recession"
+    },
+    "error": null,
+    "execution_time": 0.0
+  },
+  {
+    "query_id": 20,
+    "result": {
+      "department": "Business Development",
+      "total_hours": 775.8580881715197,
+      "avg_sales": 25605.297568125363
+    },
+    "error": null,
+    "execution_time": 0.0
+  }
+]
